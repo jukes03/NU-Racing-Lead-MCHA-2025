@@ -21,7 +21,7 @@ max total (with research): 16
 - Breakout boards = New person 3. Breakout board person can potentially also be LV Systems Engineer
 - HIP = New person 4
 - LVD = New person 5
-- CANaMoNs/Top plate electronics = New person 6
+- CANaMons/Top plate electronics = New person 6
 - Powertrain = New person 7
 - MoTeC Engineer = New person 8 (junior)
 - Research pouch cell accumulator = New person 9
@@ -39,7 +39,7 @@ max total (with research): 16
 - Breakout boards = New person 3. Breakout board person can potentially also be LV Systems Engineer
 - HIP = New person 4
 - LVD = New person 5
-- CANaMoNs/Top plate electronics = New person 6
+- CANaMons/Top plate electronics = New person 6
 - Powertrain = New person 7
 - MoTeC Engineer = New person 8 (junior)
 
@@ -50,7 +50,7 @@ max total (with research): 16
 - Breakout boards = New person 3. Breakout board person can potentially also be LV Systems Engineer
 - HIP = ENGG3200
 - LVD = New person 4
-- CANaMoNs/Top plate electronics = New person 5
+- CANaMons/Top plate electronics = New person 5
 - Powertrain = New person 6
 - MoTeC Engineer = New person 7 (junior)
 
@@ -61,7 +61,7 @@ max total (with research): 16
 - Breakout boards = New person 2. Breakout board person can potentially also be LV Systems Engineer
 - HIP = New person 3
 - LVD = New person 4
-- CANaMoNs/Top plate electronics = New person 5
+- CANaMons/Top plate electronics = New person 5
 - Powertrain = New person 6
 - MoTeC Engineer = New person 7 (junior)
 
@@ -72,7 +72,7 @@ max total (with research): 16
 - Breakout boards = New person 2. Breakout board person can potentially also be LV Systems Engineer
 - HIP = New person 3
 - LVD = New person 4
-- CANaMoNs/Top plate electronics = New person 5
+- CANaMons/Top plate electronics = New person 5
 - Powertrain = New person 6
 
 ### Plan F = 6 MCHA Team:
@@ -81,7 +81,7 @@ max total (with research): 16
 - CEN = New person 2 (competent)
 - Breakout boards = New person 2. Breakout board person can potentially also be LV Systems Engineer
 - HIP = ENGG3200
-- LVD/CANaMoNs/Top Plate = New person 3
+- LVD/CANaMons/Top Plate = New person 3
 - Powertrain = New person 4
 
 ### Plan G = 6 (including me)
@@ -90,5 +90,5 @@ max total (with research): 16
 - CEN = New person 2 (competent)
 - Breakout boards = New person 2. Breakout board person can potentially also be LV Systems Engineer
 - HIP = ENGG3200
-- LVD/CANaMoNs/Top Plate = New person 3
+- LVD/CANaMons/Top Plate = New person 3
 - Powertrain = New person 4

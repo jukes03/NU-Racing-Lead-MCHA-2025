@@ -11,10 +11,14 @@
             "id": "83e1774752c70c1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MCHA Team Roles & Structure Plans/MCHA Team Structure Plans.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MCHA Team Structure Plans"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CANamons",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,11 +156,10 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "83e1774752c70c1c",
+  "active": "f6898344d082e465",
   "lastOpenFiles": [
     "MCHA Team Roles & Structure Plans/MCHA Team Structure Plans.md",
     "MCHA Team Roles & Structure Plans/Lead MCHA Role.md",
