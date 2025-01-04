@@ -1,0 +1,16 @@
+
+- Reports to Lead MCHA
+- Responsible for all systems in the HV path
+	- Includes:
+		- Motor controller
+		- Accumulator 
+		- Charger
+			- Need multiple team members that understand how to and can charge the car
+- Ensure all components in HV path have datasheets in organised system, accessible by all team members 
+- Understand how HV systems work
+- Allocate time to research potential future HV systems and their implementation
+	- Includes:
+		- Motor controllers
+		- Accumulator
+		- Motors
+		- Cooling?

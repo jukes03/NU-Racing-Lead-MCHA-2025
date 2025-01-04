@@ -1,0 +1,11 @@
+
+- Work with Chief Engineer to ensure MCHA systems meet overarching system goals and outlined deadlines
+- understanding state of all MCHA projects and communicate their progress to Team Leader and Chief Engineer
+- Manage all MCHA systems, ensuring they integrate to the car
+	- Done though requirement matrices 
+		- Helps engineer working on project understand the final goal
+		- Effective use of resources, time and money
+- Manage junior team members involvement with MCHA projects
+	- work with Lead MECH to create system to allocate projects to junior members
+	- juniors should be supported through project by a senior member, Lead MCHA will ensure this occurs
+- Rework DDR at start of the year to ensure it is up to date and complete
