@@ -16,12 +16,23 @@
                 "file": "MCHA Team Roles & Structure Plans/MCHA Team Structure Plans.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MCHA Team Structure Plans"
+              }
+            }
+          },
+          {
+            "id": "ad05fe4448e84315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New LVD connector.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,9 +52,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -58,9 +67,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -68,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -93,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New LVD connector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +106,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              }
             }
           },
           {
@@ -111,12 +115,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCHA Team Roles/Lead MCHA Role.md",
+                "file": "New LVD connector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Lead MCHA Role"
+              }
             }
           },
           {
@@ -127,9 +129,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -137,9 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
+              "state": {
+                "file": "New LVD connector.md"
+              }
             }
           }
         ]
@@ -159,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6898344d082e465",
+  "active": "ad05fe4448e84315",
   "lastOpenFiles": [
     "MCHA Team Roles & Structure Plans/MCHA Team Structure Plans.md",
+    "New LVD connector.md",
+    "Untitled",
     "MCHA Team Roles & Structure Plans/Lead MCHA Role.md",
     "MCHA Team Roles & Structure Plans/LV Systems Engineer.md",
     "NU-Racing-Lead-MCHA-2025",
