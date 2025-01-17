@@ -5,7 +5,8 @@ Forms to submit to comp and when they are due
 - Opens mid April and closes late July
 
 #### Electrical Safety Form (ESF)
-- Due early September
+- Make a start on it early July
+- Due late august
 	- Internal deadline set 2 weeks before external deadline 
 - Requires information from datasheets and PCB schematics
 - Details information about the Tractive System, namely:
