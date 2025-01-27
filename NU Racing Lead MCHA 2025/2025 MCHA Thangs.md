@@ -1,0 +1,108 @@
+
+### Splurge
+- Keyed AT connectors where necessary (CEN, DEN)
+- EXPANSION BOARD
+	- fixes to CAN lines and GND plane
+	- Shock pots
+	- wheel speed sensors
+	- steering angle sensor
+- PEN
+	- caps to brake sensor inputs
+	- resize to pedal box
+- SWEN 
+	- dials for torque, regen, and others?
+- DEN
+	- change to chassis
+	- all naming of AMS to BMS
+- CEN
+	- route bms and imd to HIP
+	- change to opposite side of HIP
+	- spec fuses properly
+	- interpose from LVD to CEN
+	- another double mosfet circuit 
+	- temperature sensing circuit for radiator fan, reduce amount of time fan is on
+- BSPD 
+	- remove resistor voltage divider, add in pot
+- HFR
+	- add back in op amps, with researched protection circuit on input
+- UEN
+	-  Mount Ready to Move light (amber light)
+		- example: https://www.amazon.com.au/LED-Trailer-Marker-Surface-Waterproof/dp/B08FXWXJZR?gQT=2&th=1
+	- loom changes
+- HIP 
+	- MSD
+	- Ready to Move and TSSI
+	- HV connector interlock 
+- TSAL_DISCHARGE
+	- Ready to Move and TSSI
+- LVD
+	- move to top plate 
+		- looms to connect LVD to Lid
+- AIL
+	- have it be part of LVD, spend time to ensure that it is functional
+- Accumulator development
+- Motors
+	- Spare 228 (i think there might be already one there)
+- Motor Controller
+	- retrieve the one being repaired
+	- order a spare in case (DX version)
+
+### Realistic 
+- Keyed AT connectors where necessary (CEN)
+- EXPANSION BOARD
+	- fixes to CAN lines and GND plane
+	- Shock pots
+	- wheel speed sensors
+	- steering angle sensor
+- PEN
+	- caps to brake sensor inputs
+	- resize to pedal box
+- DEN
+	- change to chassis
+	- all naming of AMS to BMS
+	- dials for torque, switch for regen
+- CEN
+	- route bms and imd to HIP
+	- change to opposite side of HIP
+	- spec fuses properly
+	- interpose from LVD to CEN
+	- another double mosfet circuit 
+- BSPD 
+	- remove resistor voltage divider, add in pot
+- UEN
+	-  Mount Ready to Move light (amber light)
+		- example: https://www.amazon.com.au/LED-Trailer-Marker-Surface-Waterproof/dp/B08FXWXJZR?gQT=2&th=1
+	- loom changes
+- HIP 
+	- MSD
+	- Ready to Move and TSSI
+	- HV connector interlock 
+- TSAL_DISCHARGE
+	- Ready to Move and TSSI
+- LVD
+	- move to top plate 
+		- looms to connect LVD to Lid
+- AIL
+	- new volt meter
+- Accumulator development
+- Motor Controller
+	- retrieve the one being repaired
+
+### Must Haves
+- DEN
+	- change to chassis
+	- all naming of AMS to BMS
+- CEN
+	- route bms and imd to HIP
+- UEN
+	-  Mount Ready to Move light (amber light)
+		- example: https://www.amazon.com.au/LED-Trailer-Marker-Surface-Waterproof/dp/B08FXWXJZR?gQT=2&th=1
+	- loom changes
+- HIP 
+	- MSD
+	- Ready to Move and TSSI
+- TSAL_DISCHARGE
+	- Ready to Move and TSSI
+- AIL
+	- keep current volt meter
+
