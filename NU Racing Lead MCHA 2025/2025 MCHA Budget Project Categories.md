@@ -16,6 +16,8 @@
 	- all naming of AMS to BMS
 - CEN
 	- route BMS and IMD to HIP
+		- change 12 pin CEN DT to 18 pin AT
+			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
 	- change to opposite side of HIP
 	- spec fuses properly
 	- interpose from LVD to CEN
@@ -32,6 +34,8 @@
 - HIP 
 	- MSD
 	- Ready to Move and TSSI
+		- change 12 pin CEN DT to 18 pin AT
+			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
 	- HV connector interlock 
 - TSAL_DISCHARGE
 	- Ready to Move and TSSI
@@ -64,6 +68,8 @@
 	- dials for torque, switch for regen
 - CEN
 	- route BMS and IMD to HIP
+		- change 12 pin CEN DT to 18 pin AT
+			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
 	- change to opposite side of HIP
 	- spec fuses properly
 	- interpose from LVD to CEN
@@ -77,6 +83,8 @@
 - HIP 
 	- MSD
 	- Ready to Move and TSSI
+		- change 12 pin CEN DT to 18 pin AT
+			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
 	- HV connector interlock 
 - TSAL_DISCHARGE
 	- Ready to Move and TSSI
@@ -95,6 +103,8 @@
 	- all naming of AMS to BMS
 - CEN
 	- route BMS and IMD to HIP
+		- change 12 pin CEN DT to 18 pin AT
+			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
 - UEN
 	-  Mount Ready to Move light (amber light)
 		- example: https://www.amazon.com.au/LED-Trailer-Marker-Surface-Waterproof/dp/B08FXWXJZR?gQT=2&th=1
@@ -102,6 +112,8 @@
 - HIP 
 	- MSD
 	- Ready to Move and TSSI
+		- change 12 pin CEN DT to 18 pin AT
+			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
 	- Keep 3d printed bolt box
 - TSAL_DISCHARGE
 	- Ready to Move and TSSI

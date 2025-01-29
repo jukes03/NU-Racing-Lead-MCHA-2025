@@ -13,6 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "PCBs/NU25 - All PCB Mount DT Connectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NU25 - All PCB Mount DT Connectors"
+            }
+          },
+          {
+            "id": "28228c2301e0ea53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCBs/AT Connectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AT Connectors"
+            }
+          },
+          {
+            "id": "168fea6fe01c641e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2025 MCHA Budget Project Categories.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +49,8 @@
               "title": "2025 MCHA Budget Project Categories"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,13 +191,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83e1774752c70c1c",
+  "active": "28228c2301e0ea53",
   "lastOpenFiles": [
+    "PCBs/NU25 - All PCB Mount DT Connectors.md",
+    "2025 MCHA Budget Project Categories.md",
+    "PCBs/AT Connectors.md",
+    "PCBs/NU24 - All PCB Mount DT Connectors.md",
     "2025 NU Racing Projects.md",
     "PCBs/New LVD connector.md",
-    "PCBs/AT Connectors.md",
-    "PCBs/NU25 - All PCB Mount DT Connectors.md",
-    "PCBs/NU24 - All PCB Mount DT Connectors.md",
     "MCHA Team Roles & Structure Plans/Lead MCHA Role.md",
     "MCHA Team Roles & Structure Plans/LV Systems Engineer.md",
     "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",

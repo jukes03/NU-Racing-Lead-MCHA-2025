@@ -1,8 +1,8 @@
 
-Keyed connectors: 10
-- 2x 12 pin
+Keyed connectors: 8
+- 1x 18 pin
 - 6x 8 pin
-- 2x 6 pin
+- 1x 6 pin
 
 PEN
 - 12 Pin (sensors)
@@ -15,16 +15,16 @@ DEN
 - 6 Pin (TELEM/GPS)
 - 4 Pin (inertia switch)
 CEN
-- 12 Pin (HIP) Keyed
-- 12 Pin (LVD) Keyed
+- 18 Pin (HIP) Keyed
+- 12 Pin (LVD)
 - 8 Pin (REAR) Keyed
 - 8 Pin (MC) Keyed
 - 8 Pin (DCDC) Keyed
 - 8 Pin (DEN) Keyed
-- 6 Pin (EXP) Keyed
+- 6 Pin (EXP)
 - 6 Pin (TSAL) Keyed
 HIP
-- 12 Pin (CEN)
+- 18 Pin (CEN) keyed
 - 6 Pin (DCDC)
 LVD
 - 12 Pin (CEN)
