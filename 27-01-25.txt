@@ -1,7 +1,0 @@
-- created nu25 repo
-	- formalised file structure
-	- edited DDR
-- read through fsae 2025 rules
-	- comparing to 2024 rules
-	- adding notes in diarly of what changed 
-		- in Rule Changes From 24 to 25
