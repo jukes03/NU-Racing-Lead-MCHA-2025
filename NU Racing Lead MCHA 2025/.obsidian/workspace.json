@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCBs/AT Connectors.md",
+                "file": "AV.One/Lena's Recommendations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AT Connectors"
+              "title": "Lena's Recommendations"
             }
           },
           {
@@ -192,9 +192,11 @@
   },
   "active": "28228c2301e0ea53",
   "lastOpenFiles": [
+    "PCBs/AT Connectors.md",
+    "AV.One/Lena's Recommendations.md",
+    "AV.One",
     "PCBs/NU25 - All PCB Mount DT Connectors.md",
     "2025 MCHA Budget Project Categories.md",
-    "PCBs/AT Connectors.md",
     "PCBs/New LVD connector.md",
     "PCBs/NU24 - All PCB Mount DT Connectors.md",
     "2025 NU Racing Projects.md",
@@ -203,7 +205,6 @@
     "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",
     "2025 MCHA Thangs.md",
     "MCHA Team Roles & Structure Plans/MCHA Team Structure Plans.md",
-    "Untitled",
     "Form Submissions/Form Submissions.md",
     "PCBs",
     "NU-Racing-Lead-MCHA-2025",
