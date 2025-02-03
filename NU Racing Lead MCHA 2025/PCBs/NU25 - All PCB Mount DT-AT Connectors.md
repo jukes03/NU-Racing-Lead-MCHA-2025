@@ -6,12 +6,12 @@ Keyed connectors: 8
 
 PEN
 - 12 Pin (sensors)
-- 8 Pin (DEN)
+- 8 Pin (DEN) *Keyed*
 - 2 Pin (BOTS)
 DEN
 - 12 Pin (MoTeC)
-- 8 Pin (CEN) *Keyed*
-- 8 Pin (PEN) *Keyed*
+- 8 Pin (CEN) *Keyed* (splurge budget)
+- 8 Pin (PEN) *Keyed* (splurge budget)
 - 6 Pin (TELEM/GPS)
 - 4 Pin (inertia switch)
 CEN

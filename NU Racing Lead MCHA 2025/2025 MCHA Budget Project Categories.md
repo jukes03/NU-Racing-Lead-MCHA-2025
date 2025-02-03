@@ -9,11 +9,13 @@
 - PEN
 	- caps to brake sensor inputs
 	- resize to pedal box
+	- keyed connector for DEN connector
 - SWEN 
 	- dials for torque, regen, and others?
 - DEN
 	- change to chassis
 	- all naming of AMS to BMS
+	- keyed connectors for CEN and PEN connectors
 - CEN
 	- route BMS and IMD to HIP
 		- change 12 pin CEN DT to 18 pin AT
@@ -66,10 +68,12 @@
 	- change to chassis
 	- all naming of AMS to BMS
 	- dials for torque, switch for regen
+	- keyed CEN AT connector
 - CEN
 	- route BMS and IMD to HIP
 		- change 12 pin CEN DT to 18 pin AT
 			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
+	- change 4x 8 pin DT connectors to keyed AT connectors
 	- change to opposite side of HIP
 	- spec fuses properly
 	- interpose from LVD to CEN

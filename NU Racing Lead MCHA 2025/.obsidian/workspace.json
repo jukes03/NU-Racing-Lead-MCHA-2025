@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCBs/NU25 - All PCB Mount DT Connectors.md",
+                "file": "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NU25 - All PCB Mount DT Connectors"
+              "title": "NU25 - All PCB Mount DT-AT Connectors"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCBs/NU25 - All PCB Mount DT Connectors.md",
+                "file": "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NU25 - All PCB Mount DT Connectors"
+              "title": "NU25 - All PCB Mount DT-AT Connectors"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,11 +204,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c435c7bf6e9852c",
+  "active": "83e1774752c70c1c",
   "lastOpenFiles": [
-    "PCBs/NU25 - All PCB Mount DT Connectors.md",
-    "PCBs/AT Connectors.md",
     "2025 MCHA Budget Project Categories.md",
+    "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
+    "PCBs/AT Connectors.md",
     "AV.One/Lena's Recommendations.md",
     "AV.One",
     "PCBs/New LVD connector.md",

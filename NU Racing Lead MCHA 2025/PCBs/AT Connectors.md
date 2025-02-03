@@ -13,6 +13,8 @@ video showing that AT is compatible with DT:
 - 2, 4, 6, 8, 12, 13, 18
 - keyed options: 6, 8, 12, 18
 
+if all assumed to be 6 pin connectors, costed at $2.65, (63 connectors), cost = 166.95
+
 6 pin 
 - receptacles
 	- blue, unsure if keyed
