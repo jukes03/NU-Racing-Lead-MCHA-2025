@@ -22,6 +22,48 @@
             }
           },
           {
+            "id": "4b1e1d1626d84f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management of MCHA team.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Management of MCHA team"
+            }
+          },
+          {
+            "id": "454d9b436aaeb7f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things To Implement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things To Implement"
+            }
+          },
+          {
+            "id": "4b682c28d171f36c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OTA Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OTA Programming"
+            }
+          },
+          {
             "id": "168fea6fe01c641e",
             "type": "leaf",
             "state": {
@@ -63,7 +105,8 @@
               "title": "NU25 - All PCB Mount DT-AT Connectors"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +125,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -204,10 +248,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83e1774752c70c1c",
+  "active": "4b682c28d171f36c",
   "lastOpenFiles": [
-    "2025 MCHA Budget Project Categories.md",
+    "Untitled.md",
+    "OTA Programming.md",
+    "Things To Implement.md",
+    "Management of MCHA team.md",
     "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
+    "2025 MCHA Budget Project Categories.md",
     "PCBs/AT Connectors.md",
     "AV.One/Lena's Recommendations.md",
     "AV.One",
