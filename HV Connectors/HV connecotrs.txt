@@ -5,3 +5,6 @@ Idea 1: 2x 2 position plugs, both similar:
 Idea 2: 1x 2 position plug, 2x 1 position surlok:
 	- 50mm^2 surlok (with HVIL): https://www.digikey.com.au/en/products/detail/amphenol-industrial-operations/SLPIRBBPSO1EH/9385686
 	- 25mm^2 smol boi: https://amphenol-industrial.com/products/epower-lite-and-epower-lite-mini/
+
+
+link to connector catalog: https://www.amphenol-sine.com/pdf/catalog/MagnaMate-ATHP-Family-Flyer-2019.pdf

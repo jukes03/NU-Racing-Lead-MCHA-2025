@@ -1,3 +1,5 @@
 connector: https://www.digikey.com.au/en/products/detail/hirose-electric-co-ltd/gt8e-2s-2c/4305684
 
-current MSD that is on NU24 (03/02/25) datasheet: https://www.hirose.com/en/product/document?clcode=CL0138-0200-0-04&productname=EM30MSD(04)&series=EM30MSD&documenttype=2DDrawing&lang=en&documentid=0001453695
+current MSD that is on NU24 (03/02/25): 
+- link: https://www.digikey.com.au/en/products/detail/hirose-electric-co-ltd/EM30MSD-04/16992241
+- datasheet: https://www.hirose.com/en/product/document?clcode=CL0138-0200-0-04&productname=EM30MSD(04)&series=EM30MSD&documenttype=2DDrawing&lang=en&documentid=0001453695

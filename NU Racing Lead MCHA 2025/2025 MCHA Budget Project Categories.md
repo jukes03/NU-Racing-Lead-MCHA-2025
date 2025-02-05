@@ -6,6 +6,11 @@
 	- Shock pots
 	- wheel speed sensors
 	- steering angle sensor
+	- SWEN functionality
+	- temp sensors for radiator 
+		- temp sensors are already in the radiator 
+		- DBC file update
+		- MoTeC
 - PEN
 	- caps to brake sensor inputs
 	- resize to pedal box
@@ -61,6 +66,11 @@
 	- Shock pots
 	- wheel speed sensors
 	- steering angle sensor
+	- SWEN functionality
+	- temp sensors for radiator 
+		- temp sensors are already in the radiator 
+		- DBC file update
+		- MoTeC
 - PEN
 	- caps to brake sensor inputs
 	- resize to pedal box
