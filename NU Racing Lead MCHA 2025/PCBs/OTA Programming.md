@@ -1,4 +1,10 @@
 
+What do I actually want from this project
+- to be able to not have to open up the enclosure of a PCB in order to flash code/read serial from the teensy on the PCB
+- connection will need to be one way, for code upload (preferably two way, for serial reading)
+	- all the teensys will listen to a main controller, to see if code is needed to be uploaded
+	- all teensys will also be able to communicate their serial data back to the main controller
+	- main controller (hopefully) will be able to switch between which teensy it is talking to
 
 
 link to how to use a ESP32 to program teensy: https://electronics.stackexchange.com/questions/736420/using-a-esp32-to-program-a-teensy
@@ -22,8 +28,21 @@ link to how to use a ESP32 to program teensy: https://electronics.stackexchange.
 #### Using OTA 
 - Over-The-Air is a wireless programming method that Arduino created. Though it was only created for Arduino boards 
 - The following link shows how to implement OTA on teensy 3.x and 4.x. https://www.fpaynter.com/2021/10/over-the-air-ota-firmware-updates-for-teensy-3-x-4-x/
-- the above post uses vs2019 or Visual Micro as IDEs which have post-build command. Thing link shows that Arduino IDE also uses it but will have to investigate and try to convert above post to use Arduino IDE instead of vs2019/VM. https://forum.arduino.cc/t/build-process-add-custom-action-during-execution-e-g-fill-build-date/562986
+- the above post uses vs2019 or Visual Micro as IDEs which have post-build command. This link shows that Arduino IDE also uses it but will have to investigate and try to convert above post to use Arduino IDE instead of vs2019/VM. https://forum.arduino.cc/t/build-process-add-custom-action-during-execution-e-g-fill-build-date/562986
 - another link to people talking about OTA. https://forum.pjrc.com/index.php?threads/ota-sketch-updates-for-teensy.55469/
+
+#### Using Bluetooth
+- range on small power bluetooth chips: ~30 m
+	- HC05 bluetooth chip: 
+		- Rx pin = 3.3v
+		- Tx pin = 3.3v but dont have to worry since it transmits
+		- pin 34 of command chip must be connected to 3.3v in order for it to stay in command mode 
+			- slow blink = command mode
+			- fast blink = waiting for something to connect to it
+		- coolterm is a serial monitor app that has good information about what is going on
+		- speed = 38400
+- range on high power bluetooth chips: ~80m
+- CP2102 USB-to-Serial converter will have to be used
 
 # Note on Raspberry Pi Code Upload Using Wifi 
 

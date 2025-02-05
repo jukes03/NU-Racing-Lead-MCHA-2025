@@ -10,6 +10,7 @@
 - Understand how HV systems work
 - Allocate time to research potential future HV systems and their implementation
 	- Includes:
+		- Dyno
 		- Motor controllers
 		- Accumulator
 		- Motors

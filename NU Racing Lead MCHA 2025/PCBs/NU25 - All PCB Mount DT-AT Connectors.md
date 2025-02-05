@@ -6,11 +6,11 @@ Keyed connectors: 8
 
 PEN
 - 12 Pin (sensors)
-- 8 Pin (DEN) *Keyed*
+- 8 Pin (DEN) *Keyed* (splurge budget)
 - 2 Pin (BOTS)
 DEN
 - 12 Pin (MoTeC)
-- 8 Pin (CEN) *Keyed* (splurge budget)
+- 8 Pin (CEN) *Keyed*
 - 8 Pin (PEN) *Keyed* (splurge budget)
 - 6 Pin (TELEM/GPS)
 - 4 Pin (inertia switch)
@@ -26,6 +26,7 @@ CEN
 HIP
 - 18 Pin (CEN) *keyed*
 - 6 Pin (DCDC)
+- 2 Pin (Energy Meter)
 LVD
 - 12 Pin (CEN)
 - 6 Pin (Fan Bank 1)

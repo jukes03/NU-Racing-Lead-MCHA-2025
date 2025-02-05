@@ -7,3 +7,6 @@ inductive:
 hall effect sensor
 - cheaper
 - https://www.bosch-motorsport-shop.com.au/hall-effect-speed-sensor?srsltid=AfmBOoqXUikeTuVx7DKuw_L6HPQd0-x1tqBoUhLCqqXx2cZiT4XXE9Kv
+
+reddit post about wheel speed sensors
+- https://www.reddit.com/r/FSAE/comments/jzmh17/wheel_speed_sensor_in_ev/
