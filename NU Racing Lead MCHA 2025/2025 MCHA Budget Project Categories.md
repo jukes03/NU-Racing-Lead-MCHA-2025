@@ -67,6 +67,9 @@
 	- wheel speed sensors
 	- steering angle sensor
 	- SWEN functionality
+		- dials for torque
+		- switch for regen
+		- idk how youll make sure these things are in the correct position after unplugging the board from the car
 	- temp sensors for radiator 
 		- temp sensors are already in the radiator 
 		- DBC file update
@@ -77,7 +80,6 @@
 - DEN
 	- change to chassis
 	- all naming of AMS to BMS
-	- dials for torque, switch for regen
 	- keyed CEN AT connector
 - CEN
 	- route BMS and IMD to HIP
