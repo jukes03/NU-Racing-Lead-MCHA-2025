@@ -49,6 +49,8 @@
 - LVD
 	- move to top plate 
 		- looms to connect LVD to Lid
+	- use this connector for the big 22 pin molex connector
+		- https://www.te.com/en/product-6437288-6.html
 - AIL
 	- have it be part of LVD, spend time to ensure that it is functional
 	- also have volt meter as a spare
@@ -107,6 +109,8 @@
 - LVD
 	- move to top plate 
 		- looms to connect LVD to Lid
+	- use this connector for the big 22 pin molex connector
+		- https://www.te.com/en/product-6437288-6.html
 - AIL
 	- new volt meter
 - Accumulator development
