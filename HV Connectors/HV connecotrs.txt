@@ -1,10 +1,20 @@
-Idea 1: 2x 2 position plugs, both similar:
-	- 50mm^2 2 plug big boi: https://www.amphenol-sine.com/_p_8524.html
-	- 25mm^2 smol boi: https://amphenol-industrial.com/products/epower-lite-and-epower-lite-mini/
-
-Idea 2: 1x 2 position plug, 2x 1 position surlok:
+OPT A: Idea 2: 1x 2 position plug, 2x 1 position surlok:
 	- 50mm^2 surlok (with HVIL): https://www.digikey.com.au/en/products/detail/amphenol-industrial-operations/SLPIRBBPSO1EH/9385686
 	- 25mm^2 smol boi: https://amphenol-industrial.com/products/epower-lite-and-epower-lite-mini/
+
+CHOSEN OPTION: OPT B: 2x 2 position plugs, both similar:
+	- 50mm^2 2 plug big boi: https://www.amphenol-sine.com/_p_8524.html
+		- 1x plug
+		- 1x receptacle 
+			- out of stock with 4 month lead time https://au.mouser.com/ProductDetail/Amphenol-SINE-Systems/ATHP042P08NL16-50?qs=%252BEew9%252B0nqrAHoYl0Ra51ng%3D%3D&srsltid=AfmBOoobUanY6V03lg8MbXxIczZUieJMZv6RsCP7_7gylQI_RXs9fh19
+			- EMC version: https://au.mouser.com/ProductDetail/Amphenol-SINE-Systems/ATHP042P08EL16-H1?qs=%252BEew9%252B0nqrDaOi10m0m5sw%3D%3D&srsltid=AfmBOopmXMz_e911kEoix2dGPRCTt6ezlKRscpLUNe-2v6kSNld4NzD1
+
+		what was wanted:
+			- https://au.mouser.com/ProductDetail/Amphenol-SINE-Systems/ATHP042P08NL16-50?qs=%252BEew9%252B0nqrAHoYl0Ra51ng%3D%3D&srsltid=AfmBOoobUanY6V03lg8MbXxIczZUieJMZv6RsCP7_7gylQI_RXs9fh19
+			- https://www.digikey.com.au/en/products/detail/amphenol-sine-systems-corp/ATHP062S08NL16-50S1/9477577
+	- 25mm^2 smol boi: https://amphenol-industrial.com/products/epower-lite-and-epower-lite-mini/
+		- 2x plug
+		- 2x receptacle
 
 
 link to connector catalog: https://www.amphenol-sine.com/pdf/catalog/MagnaMate-ATHP-Family-Flyer-2019.pdf

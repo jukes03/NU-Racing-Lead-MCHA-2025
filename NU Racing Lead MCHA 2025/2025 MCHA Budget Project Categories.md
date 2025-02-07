@@ -113,6 +113,8 @@
 		- https://www.te.com/en/product-6437288-6.html
 - AIL
 	- new volt meter
+- New HV connectors
+	- for hip to mc and hip to accum
 - Accumulator development
 - Motor Controller
 	- retrieve the one being repaired
@@ -134,7 +136,7 @@
 	- Ready to Move and TSSI
 		- change 12 pin CEN DT to 18 pin AT
 			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
-	- Keep 3d printed bolt box
+	- Keep 3d printed bolt box for HV connectors
 - TSAL_DISCHARGE
 	- Ready to Move and TSSI
 - AIL

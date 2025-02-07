@@ -222,14 +222,25 @@
   },
   "active": "65268a38cb2e3974",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "2025 MCHA Budget Project Categories.md",
     "PCBs/New LVD connector.md",
+=======
+    "Management of MCHA team.md",
+    "PCBs/NU24 - All PCB Mount DT Connectors.md",
+    "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
+    "PCBs/AT Connectors.md",
+    "2025 MCHA Budget Project Categories.md",
+>>>>>>> Stashed changes
     "2025 NU Racing Projects.md",
     "PCBs/AT Connectors.md",
     "PCBs/OTA Programming.md",
+<<<<<<< Updated upstream
     "Management of MCHA team.md",
     "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
     "PCBs/NU24 - All PCB Mount DT Connectors.md",
+=======
+>>>>>>> Stashed changes
     "MCHA Team Roles & Structure Plans/MCHA Team Structure Plans.md",
     "MCHA Team Roles & Structure Plans/LV Systems Engineer.md",
     "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",
