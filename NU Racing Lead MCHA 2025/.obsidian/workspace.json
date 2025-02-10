@@ -48,6 +48,7 @@
               "icon": "lucide-file",
               "title": "OTA Programming"
             }
+<<<<<<< Updated upstream
           },
           {
             "id": "ff86439b215f2877",
@@ -65,6 +66,11 @@
           }
         ],
         "currentTab": 3
+=======
+          }
+        ],
+        "currentTab": 2
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -206,15 +212,24 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "ff86439b215f2877",
   "lastOpenFiles": [
     "PCBs/OTA Programming.md",
+=======
+  "active": "7c585f61eb4f1c46",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "PCBs/AT Connectors.md",
     "2025 MCHA Budget Project Categories.md",
     "PCBs/Ready To Move Implementation Decision.md",
     "Rules enquires.md",
     "PCBs/New LVD connector.md",
     "2025 NU Racing Projects.md",
+<<<<<<< Updated upstream
+=======
+    "PCBs/OTA Programming.md",
+>>>>>>> Stashed changes
     "Management of MCHA team.md",
     "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
     "PCBs/NU24 - All PCB Mount DT Connectors.md",

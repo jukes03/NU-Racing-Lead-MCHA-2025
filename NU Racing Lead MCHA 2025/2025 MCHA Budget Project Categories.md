@@ -21,7 +21,7 @@
 	- change to chassis
 	- all naming of AMS to BMS
 	- keyed connectors for CEN and PEN connectors
-- CEN
+- CEN Mobo
 	- route BMS and IMD to HIP
 		- change 12 pin CEN DT to 18 pin AT
 			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
@@ -30,6 +30,10 @@
 	- interpose from LVD to CEN
 	- another double MOSFET circuit 
 	- temperature sensing circuit for radiator fan, reduce amount of time fan is on
+	- TSAL DT:
+		- change naming from TSAL to UEN
+		- make it an 8 pin connector
+			- to route new red switched ground
 - BSPD 
 	- remove resistor voltage divider, add in pot
 - HFR (2x)
@@ -39,7 +43,7 @@
 		- example: https://www.amazon.com.au/LED-Trailer-Marker-Surface-Waterproof/dp/B08FXWXJZR?gQT=2&th=1
 	- loom changes
 - HIP 
-	- MSD
+	- change all naming of HVD to MSD on schematic and enclosure
 	- Ready to Move and TSSI
 		- change 12 pin CEN DT to 18 pin AT
 			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
@@ -65,9 +69,9 @@
 - Keyed AT connectors where necessary (CEN)
 - EXPANSION BOARD
 	- fixes to CAN lines and GND plane
-	- Shock pots
-	- wheel speed sensors
-	- steering angle sensor
+	- Shock pots (have)
+	- wheel speed sensors (order 3 more)
+	- steering angle sensor (have)
 	- SWEN functionality
 		- dials for torque
 		- switch for regen
@@ -83,15 +87,19 @@
 	- change to chassis
 	- all naming of AMS to BMS
 	- keyed CEN AT connector
-- CEN
-	- route BMS and IMD to HIP
-		- change 12 pin CEN DT to 18 pin AT
-			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
+- CEN Mobo
 	- change 4x 8 pin DT connectors to keyed AT connectors
 	- change to opposite side of HIP
 	- spec fuses properly
 	- interpose from LVD to CEN
 	- another double MOSFET circuit 
+	- TSAL DT:
+		- change naming from TSAL to UEN
+		- make it an 8 pin connector
+			- to route new red switched ground
+- HFR
+	- implement new red switching functionality 
+		- 555 timer, or gate
 - BSPD 
 	- remove resistor voltage divider, add in pot
 - UEN
@@ -99,13 +107,10 @@
 		- example: https://www.amazon.com.au/LED-Trailer-Marker-Surface-Waterproof/dp/B08FXWXJZR?gQT=2&th=1
 	- loom changes
 - HIP 
-	- MSD
-	- Ready to Move and TSSI
-		- change 12 pin CEN DT to 18 pin AT
-			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
+	- change all naming of HVD to MSD on schematic and enclosure
 	- HV connector interlock 
 - TSAL_DISCHARGE
-	- Ready to Move and TSSI
+	- Correct schematic documentation and change all naming of red to amber
 - LVD
 	- move to top plate 
 		- looms to connect LVD to Lid
@@ -123,22 +128,34 @@
 - DEN
 	- change to chassis
 	- all naming of AMS to BMS
-- CEN
+- CEN Mobo
 	- route BMS and IMD to HIP
 		- change 12 pin CEN DT to 18 pin AT
 			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
+	- TSAL DT:
+		- change naming from TSAL to UEN
+		- make it an 8 pin connector
+			- to route new red switched ground
+- HFR
+	- implement new red switching functionality 
+		- 555 timer, or gate
 - UEN
 	-  Mount Ready to Move light (amber light)
 		- example: https://www.amazon.com.au/LED-Trailer-Marker-Surface-Waterproof/dp/B08FXWXJZR?gQT=2&th=1
 	- loom changes
 - HIP 
+<<<<<<< Updated upstream
 	- MSD
 	- Ready to Move and TSSI
 		- change 12 pin CEN DT to 18 pin AT
 			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
 	- Keep 3d printed bolt box for HV connectors
+=======
+	- change all naming of HVD to MSD on schematic and enclosure
+	- New HV connectors
+>>>>>>> Stashed changes
 - TSAL_DISCHARGE
-	- Ready to Move and TSSI
+	- Correct schematic documentation and change all naming of red to amber
 - AIL
 	- keep current volt meter
 

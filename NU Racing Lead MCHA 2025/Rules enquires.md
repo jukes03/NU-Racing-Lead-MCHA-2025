@@ -1,0 +1,2 @@
+
+EV.5.11.5 States that the Green Light must be always ON when there are no faults and be OFF when there is a BMS or IMD fault. Our understanding is that the Green Light will remain on when the Ready To Move Light is also on. Is this correct?
