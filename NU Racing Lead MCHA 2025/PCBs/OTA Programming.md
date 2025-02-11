@@ -12,14 +12,20 @@ link to how to use a ESP32 to program teensy: https://electronics.stackexchange.
 
 ### Potential Ways to do OTA on Teensy 
 
-#### ESP32 Implementation
+#### ESP32 Implementation (most likely to work)
 - every esp32 explained: https://www.youtube.com/watch?v=u5unB24lhC4&ab_channel=DroneBotWorkshop
 - link to esp32 datasheet https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 - want an esp32 that has Two-Wire Automotive Interface (TWAI) 
 	- TWAI supports CAN 2.0
 	- Any GPIO pin on 
-- i think the go is ESP32-H2 
-	- https://www.espressif.com/sites/default/files/documentation/esp32-h2_datasheet_en.pdf
+- i think the go is ESP32-C6
+	- https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/index.html
+	- https://core-electronics.com.au/esp32-c6-devkitc-1-n8-development-board-8-mb-spi-flash.html
+	- https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf
+- using OTA with esp32
+	- https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/ota.html
+- OTA on esp32-c6
+	- https://docs.espressif.com/projects/esp-at/en/latest/esp32c6/Compile_and_Develop/How_to_implement_OTA_update.html#:~:text=Run%20the%20command%20AT%2BUSEROTA,connected%2C%20OTA%20upgrade%20will%20begin.
 #### Central Hub Idea 1 (CAN)
 - uploading code would have to go over can
 - have a node that has x amount of plug in spots that has access to can network (will require teensy as well) 
