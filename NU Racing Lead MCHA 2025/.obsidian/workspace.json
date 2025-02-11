@@ -1,90 +1,41 @@
 {
   "main": {
-    "id": "84f08570be9020a7",
+    "id": "e669a95e733f367b",
     "type": "split",
     "children": [
       {
-        "id": "0e3a420ed5041826",
+        "id": "19f7cba6b5bc529f",
         "type": "tabs",
         "children": [
           {
-            "id": "83e1774752c70c1c",
+            "id": "592b92c535a23627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
+                "file": "Week 0/Prep for preso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NU25 - All PCB Mount DT-AT Connectors"
-            }
-          },
-          {
-            "id": "4b1e1d1626d84f15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Management of MCHA team.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Management of MCHA team"
-            }
-          },
-          {
-            "id": "7c585f61eb4f1c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCBs/OTA Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OTA Programming"
-            }
-<<<<<<< Updated upstream
-          },
-          {
-            "id": "ff86439b215f2877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025 MCHA Budget Project Categories.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025 MCHA Budget Project Categories"
+              "title": "Prep for preso"
             }
           }
-        ],
-        "currentTab": 3
-=======
-          }
-        ],
-        "currentTab": 2
->>>>>>> Stashed changes
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ce7b3c0182228b4b",
+    "id": "e201fbefc6142d56",
     "type": "split",
     "children": [
       {
-        "id": "8b2653552449ed45",
+        "id": "e87dd585ade1ecab",
         "type": "tabs",
         "children": [
           {
-            "id": "f6898344d082e465",
+            "id": "abb05896e48af20f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -97,12 +48,12 @@
             }
           },
           {
-            "id": "2dd119a6e66b222c",
+            "id": "3352140d91f8a366",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "CANamons",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +65,7 @@
             }
           },
           {
-            "id": "9e00be46e79177ca",
+            "id": "8d57bfeadba241ca",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -130,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "06bb0049748835b2",
+    "id": "5bd3e0a511698436",
     "type": "split",
     "children": [
       {
-        "id": "862f8a37eeeb9811",
+        "id": "734f76bd592eeabb",
         "type": "tabs",
         "children": [
           {
-            "id": "48b6aa14fe1c89ce",
+            "id": "e8275e9bfd6489b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Form Submissions/Form Submissions.md",
+                "file": "Week 0/Prep for preso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,46 +104,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Form Submissions"
+              "title": "Backlinks for Prep for preso"
             }
           },
           {
-            "id": "fce98301d6f4a6ec",
+            "id": "08e21c5ee8081088",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Form Submissions/Form Submissions.md",
+                "file": "Week 0/Prep for preso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Form Submissions"
+              "title": "Outgoing links from Prep for preso"
             }
           },
           {
-            "id": "8425f1c73439d338",
+            "id": "d0c915c608158a31",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "04aa662d8b414048",
+            "id": "a902ce4aa1869c1b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Form Submissions/Form Submissions.md"
+                "file": "Week 0/Prep for preso.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Form Submissions"
+              "title": "Outline of Prep for preso"
             }
           }
         ]
@@ -212,44 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "ff86439b215f2877",
+  "active": "592b92c535a23627",
   "lastOpenFiles": [
-    "PCBs/OTA Programming.md",
-=======
-  "active": "7c585f61eb4f1c46",
-  "lastOpenFiles": [
->>>>>>> Stashed changes
-    "PCBs/AT Connectors.md",
-    "2025 MCHA Budget Project Categories.md",
-    "PCBs/Ready To Move Implementation Decision.md",
-    "Rules enquires.md",
-    "PCBs/New LVD connector.md",
-    "2025 NU Racing Projects.md",
-<<<<<<< Updated upstream
-=======
-    "PCBs/OTA Programming.md",
->>>>>>> Stashed changes
-    "Management of MCHA team.md",
-    "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
-    "PCBs/NU24 - All PCB Mount DT Connectors.md",
-    "MCHA Team Roles & Structure Plans/MCHA Team Structure Plans.md",
-    "MCHA Team Roles & Structure Plans/LV Systems Engineer.md",
-    "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",
-    "AV.One/Lena's Recommendations.md",
-    "AV.One/Paper on How to build the computing system of an Autonomous Vehicle.md",
-    "Wheel Speed Sensors.md",
-    "1. TODO List.md",
-    "AV.One",
-    "MCHA Team Roles & Structure Plans/Lead MCHA Role.md",
-    "2025 MCHA Thangs.md",
-    "Form Submissions/Form Submissions.md",
-    "PCBs",
-    "NU-Racing-Lead-MCHA-2025",
-    "MCHA Team Roles & Structure Plans/MoTeC Engineer.md",
-    "Form Submissions",
-    "MCHA Team Roles & Structure Plans/Simulation Engineer.md",
-    "Welcome.md",
-    "MCHA Team Roles & Structure Plans"
+    "Week 0/Prep for preso.md",
+    "Week 0"
   ]
 }
