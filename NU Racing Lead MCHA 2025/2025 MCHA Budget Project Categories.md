@@ -55,6 +55,7 @@
 		- looms to connect LVD to Lid
 	- use this connector for the big 22 pin molex connector
 		- https://www.te.com/en/product-6437288-6.html
+	- interpose from LVD to CEN
 - AIL
 	- have it be part of LVD, spend time to ensure that it is functional
 	- also have volt meter as a spare
@@ -112,10 +113,9 @@
 - TSAL_DISCHARGE
 	- Correct schematic documentation and change all naming of red to amber
 - LVD
-	- move to top plate 
-		- looms to connect LVD to Lid
-	- use this connector for the big 22 pin molex connector
-		- https://www.te.com/en/product-6437288-6.html
+	- make it not such a mess
+	- split the 22 pin molex connector into 3 smaller molex connectors
+	- interpose from LVD to CEN
 - AIL
 	- new volt meter
 - New HV connectors
