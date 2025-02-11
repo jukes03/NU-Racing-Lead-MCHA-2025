@@ -11,6 +11,15 @@ link to how to use a ESP32 to program teensy: https://electronics.stackexchange.
 
 
 ### Potential Ways to do OTA on Teensy 
+
+#### ESP32 Implementation
+- every esp32 explained: https://www.youtube.com/watch?v=u5unB24lhC4&ab_channel=DroneBotWorkshop
+- link to esp32 datasheet https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
+- want an esp32 that has Two-Wire Automotive Interface (TWAI) 
+	- TWAI supports CAN 2.0
+	- Any GPIO pin on 
+- i think the go is ESP32-H2 
+	- https://www.espressif.com/sites/default/files/documentation/esp32-h2_datasheet_en.pdf
 #### Central Hub Idea 1 (CAN)
 - uploading code would have to go over can
 - have a node that has x amount of plug in spots that has access to can network (will require teensy as well) 
@@ -43,6 +52,8 @@ link to how to use a ESP32 to program teensy: https://electronics.stackexchange.
 		- speed = 38400
 - range on high power bluetooth chips: ~80m
 - CP2102 USB-to-Serial converter will have to be used
+
+
 
 # Note on Raspberry Pi Code Upload Using Wifi 
 

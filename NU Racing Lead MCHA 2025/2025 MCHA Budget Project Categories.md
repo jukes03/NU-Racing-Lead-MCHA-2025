@@ -48,6 +48,7 @@
 		- change 12 pin CEN DT to 18 pin AT
 			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
 	- HV connector interlock 
+	- change HIP to DCDC connector, one that is rated to pack voltage
 - TSAL_DISCHARGE
 	- Ready to Move and TSSI
 - LVD
@@ -110,6 +111,7 @@
 - HIP 
 	- change all naming of HVD to MSD on schematic and enclosure
 	- HV connector interlock 
+	- change HIP to DCDC connector, one that is rated to pack voltage
 - TSAL_DISCHARGE
 	- Correct schematic documentation and change all naming of red to amber
 - LVD
@@ -144,16 +146,14 @@
 		- example: https://www.amazon.com.au/LED-Trailer-Marker-Surface-Waterproof/dp/B08FXWXJZR?gQT=2&th=1
 	- loom changes
 - HIP 
-<<<<<<< Updated upstream
 	- MSD
 	- Ready to Move and TSSI
 		- change 12 pin CEN DT to 18 pin AT
 			- to accommodate for IMD, BMS, and AMBER_SWITCHED_GND
 	- Keep 3d printed bolt box for HV connectors
-=======
 	- change all naming of HVD to MSD on schematic and enclosure
 	- New HV connectors
->>>>>>> Stashed changes
+	- change HIP to DCDC connector, one that is rated to pack voltage
 - TSAL_DISCHARGE
 	- Correct schematic documentation and change all naming of red to amber
 - AIL
