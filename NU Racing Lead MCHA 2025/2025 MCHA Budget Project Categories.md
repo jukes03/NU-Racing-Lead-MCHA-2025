@@ -59,6 +59,7 @@
 	- interpose from LVD to CEN
 - AIL
 	- have it be part of LVD, spend time to ensure that it is functional
+		- have it be a breakout board???
 	- also have volt meter as a spare
 - Accumulator development
 - Motors
@@ -119,6 +120,7 @@
 	- split the 22 pin molex connector into 3 smaller molex connectors
 	- interpose from LVD to CEN
 - AIL
+	- have it be a breakout board???
 	- new volt meter
 - New HV connectors
 	- for hip to mc and hip to accum
