@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is an FYP.md",
+                "file": "PCBs/AT Connectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is an FYP"
+              "title": "AT Connectors"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "df2060db4ae673d1",
   "lastOpenFiles": [
-    "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",
     "What is an FYP.md",
+    "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",
     "MCHA Team Roles & Structure Plans/LV Systems Engineer.md",
     "MCHA Team Roles & Structure Plans/MCHA Team Structure Plans.md",
     "MCHA Team Roles & Structure Plans/Lead MCHA Role.md",
