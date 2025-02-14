@@ -1,0 +1,13 @@
+option 1)
+	- Only available in UK
+	- receptacle: ELRM2A0210
+		https://www.ttieurope.com/content/ttieurope/en/apps/part-detail.html?partsNumber=ELRM2A0210&mfgShortname=AIO
+	- plug: ELPM2A0210
+		https://www.ttieurope.com/content/ttieurope/en/apps/part-detail.html?partsNumber=ELPM2A0210&mfgShortname=AIO
+
+option 2)
+	- Available from Mouser
+	- receptacle: 2103124-4
+		https://au.mouser.com/ProductDetail/TE-Connectivity-AMP/2103124-4?qs=2FIyTMJ0hNl8iySrFbRmSg%3D%3D&srsltid=AfmBOop2J0dhvpSB8LbwI9E9qzlHbFp0rHi_dU83ZdOER4ldF8kmMhBT
+	- plug: 4-2103177-4 
+		https://au.mouser.com/ProductDetail/TE-Connectivity/4-2103177-4?qs=M6JgiZyq%2F9LLNRcS2jzoqA%3D%3D&srsltid=AfmBOorOqJvA0oSLYWD5ZLShj_P2voyOqA8_bOeVk_fJaiyRMtCFV8ER

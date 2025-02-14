@@ -2,6 +2,8 @@ OPT A: Idea 2: 1x 2 position plug, 2x 1 position surlok:
 	- 50mm^2 surlok (with HVIL): https://www.digikey.com.au/en/products/detail/amphenol-industrial-operations/SLPIRBBPSO1EH/9385686
 	- 25mm^2 smol boi: https://amphenol-industrial.com/products/epower-lite-and-epower-lite-mini/
 
+
+
 CHOSEN OPTION: OPT B: 2x 2 position plugs, both similar:
 	- 50mm^2 2 plug big boi: https://www.amphenol-sine.com/_p_8524.html
 		- 1x plug
