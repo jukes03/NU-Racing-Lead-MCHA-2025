@@ -1,0 +1,66 @@
+
+- FYP Project Roles
+	- Data Engineer
+		- Sensor integration 
+		- Data validation
+	- Low-Voltage (LV) Systems Engineer
+		- Circuit design 
+		- LV system overview 
+	- High-Voltage (HV) Systems-Powertrain Engineer
+		- High Voltage system overview 
+		- Dynamometer development and validation 
+	- Accumulator Electronics Engineer
+		- Circuit design
+		- Power electronics
+		- Future accumulator development
+			- Pouch cell testing and validation
+	- Autonomous Vehicle 
+		- Circuit design
+		- Stereo camera vision
+		- LiDAR implementation, testing and validation
+- pcb stuff
+	- tools
+	- ddr
+	- schematic
+	- pcb layout
+- software
+	- motec (i2, t2)
+	- accum data
+		- bms orion 2 software
+	- github
+		- file structure 
+- loom stuff
+	- what is a loom
+	- what is used to make a loom
+		- tools used
+		- zip ties and cap tape 
+	- changes to looms
+- can bus stuff
+	- can king/matlab
+	- kvaser
+- hv
+	- accumulator 
+		- area
+		- tools
+		- safety
+			- ppe 
+		- open accum??
+	- hv in pcbs 
+- design changes
+	- make sure it complies with:
+		- 2025 FSAE-A rules
+			- after checking rules, check the changed rules document to see if anything in there relates to the change as well
+		- Technical inspection from 2024
+- testing and validation
+	- testing process (flesh this out)
+	- validation (flesh this out)
+- safety
+	- to people
+	- to components
+	- if the tool hurts you, youre using the wrong tool
+	- when wheels spin
+		- make sure everything is clear
+		- what needs to happen for the wheels to spin
+- i am main point of contact for mcha systems and questions 
+	- alec is also good, he was lead mcha last year, though it is no longer his role so all questions should go to me, and if i am not available go to him
+		- break the team structure where necessary, as dylan said in the presentation
