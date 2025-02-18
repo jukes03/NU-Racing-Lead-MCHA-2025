@@ -8,9 +8,9 @@
 		(title "NU25 Electrical System Overview")
 		(date "2025-02-18")
 		(company "NU Racing")
-		(comment 1 "Past NU Racing Team Members who created these designs")
-		(comment 2 "Joshua Hayward")
-		(comment 3 "Jacob Lukes")
+		(comment 1 "evoluted these designs")
+		(comment 2 "Contributions: Past NU Racing Team Members who created and")
+		(comment 3 "Schematic Creator: Jacob Lukes")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
@@ -3888,6 +3888,10 @@
 		(uuid "7b3dce75-0488-4e1a-8e1d-58a63c1b4427")
 	)
 	(no_connect
+		(at 1247.14 486.41)
+		(uuid "7d98222f-b6cc-4cf3-83a0-b96bd1bb42e1")
+	)
+	(no_connect
 		(at 274.32 815.34)
 		(uuid "7e949de5-3253-4368-9d17-581ab46a5777")
 	)
@@ -5648,6 +5652,16 @@
 		)
 		(uuid "322c6679-fc99-45e7-96d0-ccb6a8c22012")
 	)
+	(polyline
+		(pts
+			(xy 845.82 911.86) (xy 857.504 911.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33188ae6-d6ce-4f7b-b729-cb6ed38e60a5")
+	)
 	(wire
 		(pts
 			(xy 1365.25 494.03) (xy 1370.33 494.03)
@@ -5690,7 +5704,7 @@
 	)
 	(wire
 		(pts
-			(xy 1214.12 486.41) (xy 1220.47 486.41)
+			(xy 1214.12 471.17) (xy 1220.47 471.17)
 		)
 		(stroke
 			(width 0)
@@ -8843,7 +8857,7 @@
 	)
 	(wire
 		(pts
-			(xy 1191.26 486.41) (xy 1191.26 514.35)
+			(xy 1191.26 471.17) (xy 1191.26 514.35)
 		)
 		(stroke
 			(width 0)
@@ -10941,7 +10955,7 @@
 	)
 	(wire
 		(pts
-			(xy 1220.47 486.41) (xy 1220.47 514.35)
+			(xy 1220.47 471.17) (xy 1220.47 514.35)
 		)
 		(stroke
 			(width 0)
@@ -11212,7 +11226,7 @@
 	)
 	(wire
 		(pts
-			(xy 1191.26 486.41) (xy 1198.88 486.41)
+			(xy 1191.26 471.17) (xy 1198.88 471.17)
 		)
 		(stroke
 			(width 0)
@@ -12089,6 +12103,16 @@
 		)
 		(uuid "fe62cae5-e09c-47f4-a8e2-64ebdbe9d8bf")
 	)
+	(polyline
+		(pts
+			(xy 1242.06 486.41) (xy 1242.06 498.094)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fedba61a-1677-4c1e-a983-a600efb01f29")
+	)
 	(wire
 		(pts
 			(xy 455.93 1165.86) (xy 491.49 1165.86)
@@ -12280,6 +12304,18 @@
 		(uuid 37c7130b-8c8c-4abe-a4d7-527f370e744d)
 	)
 	(rectangle
+		(start 836.676 887.222)
+		(end 865.632 911.86)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 3c471694-9df5-483e-abd1-e1bcc8a323c9)
+	)
+	(rectangle
 		(start 807.974 1014.73)
 		(end 759.46 971.296)
 		(stroke
@@ -12436,8 +12472,8 @@
 		(uuid 6d9f6346-d14c-4190-8bdf-f9ee68e462d4)
 	)
 	(rectangle
-		(start 1172.464 475.234)
-		(end 1235.964 509.27)
+		(start 1172.464 465.074)
+		(end 1250.95 509.27)
 		(stroke
 			(width 0)
 			(type default)
@@ -12604,8 +12640,8 @@
 		(uuid 913ede67-9b86-433f-b4bb-27c3ddad33c6)
 	)
 	(rectangle
-		(start 1201.42 387.35)
-		(end 1224.28 412.496)
+		(start 1219.2 427.99)
+		(end 1242.06 453.136)
 		(stroke
 			(width 0)
 			(type default)
@@ -12722,6 +12758,18 @@
 			(type none)
 		)
 		(uuid b9517d90-612f-4809-9432-9760bb342a13)
+	)
+	(rectangle
+		(start 1216.66 473.202)
+		(end 1242.06 505.206)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ba9717eb-e0a2-48a1-a38c-3960b4e6ae9a)
 	)
 	(rectangle
 		(start 495.554 925.576)
@@ -12869,7 +12917,7 @@
 	)
 	(rectangle
 		(start 1153.16 375.412)
-		(end 1235.964 509.27)
+		(end 1250.95 509.27)
 		(stroke
 			(width 0)
 			(type default)
@@ -12892,7 +12940,7 @@
 		(uuid fe8ff6fe-c641-456f-b8d6-ad80c8af5db4)
 	)
 	(image
-		(at 1422.908 1263.904)
+		(at 1423.162 1263.904)
 		(scale 0.0744123)
 		(uuid "24a573d2-e710-434f-b023-cb9048af9e3d")
 		(data "iVBORw0KGgoAAAANSUhEUgAABAoAAAHdCAYAAACUp5scAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz"
@@ -13624,6 +13672,16 @@
 			)
 		)
 		(uuid "01e8f4b1-40e8-448f-ac3e-801579d5a26a")
+	)
+	(text "RED"
+		(exclude_from_sim no)
+		(at 844.55 914.908 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "021d33f4-9672-435f-b844-95a56ba44a29")
 	)
 	(text "6"
 		(exclude_from_sim no)
@@ -14959,6 +15017,16 @@
 		)
 		(uuid "130ab5b9-fff0-4eca-9a6d-923c08c9a9ac")
 	)
+	(text "YEL"
+		(exclude_from_sim no)
+		(at 848.36 914.654 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "130c3085-fc78-4738-9d11-c7f3b70bacb9")
+	)
 	(text "12"
 		(exclude_from_sim no)
 		(at 604.52 1152.144 90)
@@ -15211,7 +15279,7 @@
 	)
 	(text "ELRA2A0310"
 		(exclude_from_sim no)
-		(at 1223.01 502.412 0)
+		(at 1235.71 516.636 0)
 		(effects
 			(font
 				(size 2 2)
@@ -15573,13 +15641,23 @@
 	)
 	(text "MC"
 		(exclude_from_sim no)
-		(at 1192.784 498.094 0)
+		(at 1173.988 513.08 0)
 		(effects
 			(font
 				(size 3 3)
 			)
 		)
 		(uuid "1b422e53-3de8-48e0-b086-51132252fc1b")
+	)
+	(text "BLK"
+		(exclude_from_sim no)
+		(at 852.424 914.654 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1b7e7241-5f29-4913-9d6a-78f4e1de744a")
 	)
 	(text "BLU"
 		(exclude_from_sim no)
@@ -15944,6 +16022,18 @@
 			)
 		)
 		(uuid "1f6f7d81-3edf-4653-8899-c491c4d43c44")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 1240.79 486.41 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "1f724645-ee79-46f9-9466-56408734fd76")
 	)
 	(text "13"
 		(exclude_from_sim no)
@@ -16491,6 +16581,18 @@
 		)
 		(uuid "266aa646-ebab-42a6-a974-665ebc9dfba0")
 	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 845.82 910.59 90)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "26a81148-40a2-4297-a306-8e295b712e5a")
+	)
 	(text "RED"
 		(exclude_from_sim no)
 		(at 879.094 1017.27 90)
@@ -16962,6 +17064,16 @@
 			)
 		)
 		(uuid "2cf7cd8c-831f-4d39-acbd-9e9829d42c87")
+	)
+	(text "BLK"
+		(exclude_from_sim no)
+		(at 1244.854 493.014 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2d193408-27aa-4709-a2f6-850e9c1cbb40")
 	)
 	(text "RED"
 		(exclude_from_sim no)
@@ -17435,6 +17547,16 @@
 		)
 		(uuid "347270c4-e33c-48f2-9a65-206b1dae8cfd")
 	)
+	(text "RED"
+		(exclude_from_sim no)
+		(at 1245.108 496.824 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "34914f73-cbd6-4287-b2ab-b03ada0f7f0a")
+	)
 	(text "25"
 		(exclude_from_sim no)
 		(at 499.364 1249.68 0)
@@ -17588,6 +17710,18 @@
 			)
 		)
 		(uuid "36e82b15-347d-4bba-91fc-a81c337776c4")
+	)
+	(text "Current Sensor"
+		(exclude_from_sim no)
+		(at 855.98 889.508 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "373048ee-ac11-4092-97d0-a18ffb01bbea")
 	)
 	(text "4"
 		(exclude_from_sim no)
@@ -18411,6 +18545,18 @@
 		)
 		(uuid "4133bcb8-0921-4fe0-bf75-660af36b3a48")
 	)
+	(text "4"
+		(exclude_from_sim no)
+		(at 857.25 910.59 90)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "413930d1-ca37-4280-ad1a-9e43006fb057")
+	)
 	(text "8"
 		(exclude_from_sim no)
 		(at 647.7 742.95 90)
@@ -18898,6 +19044,16 @@
 			)
 		)
 		(uuid "4706357c-9717-48b5-be7f-d07626c1b786")
+	)
+	(text "BLU"
+		(exclude_from_sim no)
+		(at 1244.854 489.204 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "47162e21-514c-48aa-a5de-58ab6220b1e5")
 	)
 	(text "16"
 		(exclude_from_sim no)
@@ -19480,6 +19636,16 @@
 			)
 		)
 		(uuid "5117f165-bb20-4b43-b888-fcc4995e35a8")
+	)
+	(text "OEM CONNECTOR"
+		(exclude_from_sim no)
+		(at 849.884 906.018 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+		)
+		(uuid "511eaa39-5d0b-4bd9-8447-6964f15f468e")
 	)
 	(text "14"
 		(exclude_from_sim no)
@@ -20511,6 +20677,18 @@
 		)
 		(uuid "5d2f6c63-0e17-4503-ba14-9aa4d3760092")
 	)
+	(text "2\n"
+		(exclude_from_sim no)
+		(at 849.63 910.59 90)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "5d49174e-0fb3-467e-9bd0-9bd15984f0db")
+	)
 	(text "CEN"
 		(exclude_from_sim no)
 		(at 1379.728 644.652 90)
@@ -20659,6 +20837,18 @@
 		)
 		(uuid "5f1eef2b-d988-4faf-8834-e5065248352b")
 	)
+	(text "3"
+		(exclude_from_sim no)
+		(at 1240.79 494.03 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "5f236c4a-5aa2-488a-99fd-91a7c876d8a1")
+	)
 	(text "12"
 		(exclude_from_sim no)
 		(at 662.94 744.22 90)
@@ -20798,6 +20988,16 @@
 			)
 		)
 		(uuid "6103b0cd-1cb7-4582-8687-b285920a151a")
+	)
+	(text "GRN"
+		(exclude_from_sim no)
+		(at 855.98 914.908 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "611ffb69-40ad-4e57-aac7-50a817fce151")
 	)
 	(text "4"
 		(exclude_from_sim no)
@@ -21859,7 +22059,7 @@
 	)
 	(text "High Voltage Distribution"
 		(exclude_from_sim no)
-		(at 1200.658 472.186 0)
+		(at 1200.404 462.026 0)
 		(effects
 			(font
 				(size 3 3)
@@ -22969,6 +23169,16 @@
 		)
 		(uuid "7c4e51b9-0833-4fd5-a4dd-09a3f027f858")
 	)
+	(text "LVD"
+		(exclude_from_sim no)
+		(at 850.392 901.7 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "7c57c9fc-9dc5-49de-ac22-d3ce8aea8a65")
+	)
 	(text "BLU"
 		(exclude_from_sim no)
 		(at 426.974 366.014 0)
@@ -23509,6 +23719,17 @@
 		)
 		(uuid "849a59ea-78cb-4773-a816-cb1a3491b2bb")
 	)
+	(text "*generates I_CEN"
+		(exclude_from_sim no)
+		(at 1234.186 477.52 0)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.375)
+			)
+		)
+		(uuid "84ad919b-5450-4e38-b228-bf9550a7c8bc")
+	)
 	(text "DISC"
 		(exclude_from_sim no)
 		(at 494.03 1221.74 0)
@@ -23570,6 +23791,18 @@
 			)
 		)
 		(uuid "8523b7c1-ea9e-4fd1-8b84-f616a3cfdcbf")
+	)
+	(text "4"
+		(exclude_from_sim no)
+		(at 1240.79 497.84 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "8559a598-e942-4a03-a39a-d5e451510aea")
 	)
 	(text "BMS"
 		(exclude_from_sim no)
@@ -24915,6 +25148,16 @@
 		)
 		(uuid "96e35e0c-3380-4709-bb3d-19bd5f250bbe")
 	)
+	(text "HIP"
+		(exclude_from_sim no)
+		(at 1231.9 491.998 90)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "96eeb123-3247-4d32-a7bf-f28e9463f8a5")
+	)
 	(text "48"
 		(exclude_from_sim no)
 		(at 1120.14 644.906 90)
@@ -25109,7 +25352,7 @@
 	)
 	(text "ATHP042P08EL16-H1"
 		(exclude_from_sim no)
-		(at 1193.292 502.158 0)
+		(at 1174.496 517.144 0)
 		(effects
 			(font
 				(size 2 2)
@@ -25353,7 +25596,7 @@
 	)
 	(text "TSAL_Discharge Breakout"
 		(exclude_from_sim no)
-		(at 1212.596 385.572 0)
+		(at 1230.376 426.212 0)
 		(effects
 			(font
 				(size 2 2)
@@ -25563,6 +25806,16 @@
 		)
 		(uuid "a0ae563f-dadc-426b-9ac2-bd4e93dbb729")
 	)
+	(text "MOLEX CONN"
+		(exclude_from_sim no)
+		(at 1236.218 492.506 90)
+		(effects
+			(font
+				(size 2 2)
+			)
+		)
+		(uuid "a0be70a9-34cf-41c9-ae40-6b9ea8d9cb5f")
+	)
 	(text "excitn rtrn"
 		(exclude_from_sim no)
 		(at 1051.052 795.274 0)
@@ -25700,6 +25953,18 @@
 			)
 		)
 		(uuid "a1eb8577-591d-4c03-a231-6ecc75eed048")
+	)
+	(text "Current Sensor"
+		(exclude_from_sim no)
+		(at 1232.662 474.98 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "a208eaea-e6c0-4ac8-8cac-11c224fa68ee")
 	)
 	(text "DT CONNECTOR"
 		(exclude_from_sim no)
@@ -28195,6 +28460,16 @@
 		)
 		(uuid "c7717d04-2e94-4de0-bbf3-f38a0dde3bff")
 	)
+	(text "DISC"
+		(exclude_from_sim no)
+		(at 1244.854 485.394 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c78fedee-e3ec-4213-b4c5-4ea3c67c53c0")
+	)
 	(text "13"
 		(exclude_from_sim no)
 		(at 657.606 1011.936 90)
@@ -28785,6 +29060,17 @@
 		)
 		(uuid "d096fe59-193f-447d-a2a9-dcab753887eb")
 	)
+	(text "*generates I_PACK"
+		(exclude_from_sim no)
+		(at 857.504 892.048 0)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.375)
+			)
+		)
+		(uuid "d0e0fa5f-7575-4754-8d27-81756c0e0267")
+	)
 	(text "BLU"
 		(exclude_from_sim no)
 		(at 738.886 801.37 0)
@@ -28938,6 +29224,18 @@
 			)
 		)
 		(uuid "d32c84e4-a657-41a5-976f-d2a6946b0790")
+	)
+	(text "3"
+		(exclude_from_sim no)
+		(at 853.44 910.59 90)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "d3469607-3b3b-4cf0-86c1-41cd4d6962bd")
 	)
 	(text "Segment 8"
 		(exclude_from_sim no)
@@ -29205,7 +29503,7 @@
 	)
 	(text "Accum"
 		(exclude_from_sim no)
-		(at 1223.01 498.602 0)
+		(at 1235.71 512.826 0)
 		(effects
 			(font
 				(size 3 3)
@@ -30985,6 +31283,18 @@
 			)
 		)
 		(uuid "ec7e43da-ca08-4810-b5b3-f5c5de6dca5b")
+	)
+	(text "2\n"
+		(exclude_from_sim no)
+		(at 1240.79 490.22 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "ec88b327-b382-422c-a9e1-932b24f51193")
 	)
 	(text "3"
 		(exclude_from_sim no)
@@ -35814,7 +36124,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
-		(at 1201.42 398.78 0)
+		(at 1219.2 439.42 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -35824,7 +36134,7 @@
 		(fields_autoplaced yes)
 		(uuid "0a8eee51-ff4d-4170-af21-83b83117f622")
 		(property "Reference" "J752"
-			(at 1202.69 398.7799 0)
+			(at 1220.47 439.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35834,7 +36144,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06_Pin"
-			(at 1202.69 401.3199 0)
+			(at 1220.47 441.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35844,7 +36154,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 1201.42 398.78 0)
+			(at 1219.2 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35853,7 +36163,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 1201.42 398.78 0)
+			(at 1219.2 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35862,7 +36172,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 1201.42 398.78 0)
+			(at 1219.2 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39381,6 +39691,75 @@
 			(project "NU25 Connector Pinout"
 				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
 					(reference "J726")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 857.25 911.86 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1875e2e7-7eb7-4d2f-b50d-d210c0c3ae3d")
+		(property "Reference" "J773"
+			(at 858.52 911.2249 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 858.52 913.7649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 857.25 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 857.25 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 857.25 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "2869b3ad-d952-43ff-8abd-e93d060490ed")
+		)
+		(instances
+			(project "NU25 Connector Pinout"
+				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
+					(reference "J773")
 					(unit 1)
 				)
 			)
@@ -48365,6 +48744,75 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
+		(at 853.44 911.86 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3d7d69e0-28a3-4649-82fa-3147c5e7e38f")
+		(property "Reference" "J772"
+			(at 854.71 911.2249 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 854.71 913.7649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 853.44 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 853.44 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 853.44 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "d6ec61aa-0b69-4f98-80ba-fcceae85d799")
+		)
+		(instances
+			(project "NU25 Connector Pinout"
+				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
+					(reference "J772")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
 		(at 1153.16 426.72 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52737,6 +53185,76 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
+		(at 1242.06 486.41 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ae5d3b8-e6bb-4853-877b-d90a7a07c6d7")
+		(property "Reference" "J774"
+			(at 1241.4249 487.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 1243.9649 487.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 1242.06 486.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1242.06 486.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 1242.06 486.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "2ebdc44f-2c1a-483f-ae13-12db59c9b4ed")
+		)
+		(instances
+			(project "NU25 Connector Pinout"
+				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
+					(reference "J774")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
 		(at 718.82 1149.35 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53840,6 +54358,76 @@
 			(project "NU25 Connector Pinout"
 				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
 					(reference "J368")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_DIP_x01")
+		(at 1200.15 374.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ff9493b-4aca-400c-b4e6-ed2e7ecdcdfc")
+		(property "Reference" "SW3"
+			(at 1201.4201 378.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "GLVMS"
+			(at 1203.198 370.586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 1200.15 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1200.15 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
+			(at 1200.15 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f0b05294-5224-41c7-b2b9-5b14c5af8f0b")
+		)
+		(pin "1"
+			(uuid "fa6e4657-6461-4c85-b919-f41168dadb54")
+		)
+		(instances
+			(project "NU25 Connector Pinout"
+				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -55923,7 +56511,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x10_Pin")
-		(at 1224.28 398.78 0)
+		(at 1242.06 439.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -55932,7 +56520,7 @@
 		(fields_autoplaced yes)
 		(uuid "691b5207-3829-4244-bc59-a5049a7af9d0")
 		(property "Reference" "J754"
-			(at 1224.915 383.54 0)
+			(at 1242.695 424.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55941,7 +56529,7 @@
 			)
 		)
 		(property "Value" "Conn_01x10_Pin"
-			(at 1224.915 386.08 0)
+			(at 1242.695 426.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55950,7 +56538,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 1224.28 398.78 0)
+			(at 1242.06 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55959,7 +56547,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 1224.28 398.78 0)
+			(at 1242.06 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55968,7 +56556,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x10, script generated"
-			(at 1224.28 398.78 0)
+			(at 1242.06 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60938,7 +61526,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DIP_x01")
-		(at 1207.77 439.42 180)
+		(at 1223.01 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -60946,7 +61534,7 @@
 		(dnp no)
 		(uuid "80bc6d61-cf08-446c-89a5-a8d94c588122")
 		(property "Reference" "SW9"
-			(at 1206.4999 435.61 90)
+			(at 1224.2801 378.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60956,7 +61544,7 @@
 			)
 		)
 		(property "Value" "TSMS"
-			(at 1204.976 443.738 0)
+			(at 1225.804 370.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60965,7 +61553,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 1207.77 439.42 0)
+			(at 1223.01 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60974,7 +61562,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 1207.77 439.42 0)
+			(at 1223.01 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60983,7 +61571,7 @@
 			)
 		)
 		(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-			(at 1207.77 439.42 0)
+			(at 1223.01 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62963,6 +63551,75 @@
 			(project "NU25 Connector Pinout"
 				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
 					(reference "J98")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 849.63 911.86 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8b7147d9-3063-487d-abaa-8cc0e2af32ab")
+		(property "Reference" "J771"
+			(at 850.9 911.2249 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 850.9 913.7649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 849.63 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 849.63 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 849.63 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "bb30ebb6-cc42-499c-baef-b6760df05ace")
+		)
+		(instances
+			(project "NU25 Connector Pinout"
+				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
+					(reference "J771")
 					(unit 1)
 				)
 			)
@@ -65803,6 +66460,76 @@
 			(project "NU25 Connector Pinout"
 				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
 					(reference "J435")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 1242.06 490.22 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "98c30e03-6932-4d98-bd4d-653767856c8d")
+		(property "Reference" "J775"
+			(at 1241.4249 491.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 1243.9649 491.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 1242.06 490.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1242.06 490.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 1242.06 490.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "52a09bd4-eb24-4b4e-bb18-b47f5e3e60c4")
+		)
+		(instances
+			(project "NU25 Connector Pinout"
+				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
+					(reference "J775")
 					(unit 1)
 				)
 			)
@@ -70394,6 +71121,76 @@
 			(project "NU25 Connector Pinout"
 				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
 					(reference "J769")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 1242.06 497.84 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af1226bf-af9c-4144-b2b5-8063769f5ad2")
+		(property "Reference" "J777"
+			(at 1241.4249 499.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 1243.9649 499.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 1242.06 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1242.06 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 1242.06 497.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "217ea5c4-6024-45ae-8df0-51cda9e94bd3")
+		)
+		(instances
+			(project "NU25 Connector Pinout"
+				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
+					(reference "J777")
 					(unit 1)
 				)
 			)
@@ -75912,6 +76709,75 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
+		(at 845.82 911.86 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c7841cb2-3478-46bc-8841-5e1d8fbf4b74")
+		(property "Reference" "J770"
+			(at 847.09 911.2249 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 847.09 913.7649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 845.82 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 845.82 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 845.82 911.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "9966cc35-16e7-46ad-9deb-2c609249de21")
+		)
+		(instances
+			(project "NU25 Connector Pinout"
+				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
+					(reference "J770")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
 		(at 657.86 1149.35 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -79855,6 +80721,76 @@
 			(project "NU25 Connector Pinout"
 				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
 					(reference "J195")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 1242.06 494.03 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc588fe6-23c7-4cc3-98dc-c37f9a9227d0")
+		(property "Reference" "J776"
+			(at 1241.4249 495.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 1243.9649 495.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 1242.06 494.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 1242.06 494.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 1242.06 494.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin ""
+			(uuid "6b0624be-91d3-4ee9-b123-ca1521d6462c")
+		)
+		(instances
+			(project "NU25 Connector Pinout"
+				(path "/6ae53862-aac9-4e7e-ad1a-6c34c69f763a"
+					(reference "J776")
 					(unit 1)
 				)
 			)
@@ -85196,7 +86132,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DIP_x01")
-		(at 1206.5 486.41 180)
+		(at 1206.5 471.17 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -85204,7 +86140,7 @@
 		(dnp no)
 		(uuid "f39b9c3a-0339-403e-9e3b-29e773bde98e")
 		(property "Reference" "SW6"
-			(at 1205.2299 482.6 90)
+			(at 1205.2299 467.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85214,7 +86150,7 @@
 			)
 		)
 		(property "Value" "MSD_Interlock"
-			(at 1198.88 490.728 0)
+			(at 1198.88 475.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85223,7 +86159,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 1206.5 486.41 0)
+			(at 1206.5 471.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85232,7 +86168,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 1206.5 486.41 0)
+			(at 1206.5 471.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85241,7 +86177,7 @@
 			)
 		)
 		(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-			(at 1206.5 486.41 0)
+			(at 1206.5 471.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
