@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MSD")(type "Legacy")(uri "${KIPRJMOD}/Library/MSD.lib")(options "")(descr ""))
+)
