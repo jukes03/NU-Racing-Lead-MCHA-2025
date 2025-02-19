@@ -18,20 +18,6 @@
             }
           },
           {
-            "id": "39969f4da141ace9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HV Systems-Powertrain Engineer"
-            }
-          },
-          {
             "id": "df2060db4ae673d1",
             "type": "leaf",
             "state": {
@@ -43,6 +29,34 @@
               },
               "icon": "lucide-file",
               "title": "MCHA split off preso"
+            }
+          },
+          {
+            "id": "3fc93e8d12b340b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year Planning/2025 MCHA Goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025 MCHA Goals"
+            }
+          },
+          {
+            "id": "4ee2b0b495800e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year Planning/Critical Dates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Critical Dates"
             }
           }
         ],
@@ -193,10 +207,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df2060db4ae673d1",
+  "active": "3fc93e8d12b340b0",
   "lastOpenFiles": [
-    "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",
+    "Year Planning/Critical Dates.md",
+    "Year Planning/2025 MCHA Goals.md",
     "Week 0/MCHA split off preso.md",
+    "Year Planning",
+    "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",
     "Week 0/Prep for preso.md",
     "Management of MCHA team.md",
     "Rules enquires.md",

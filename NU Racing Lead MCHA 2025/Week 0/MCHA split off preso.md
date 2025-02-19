@@ -1,4 +1,16 @@
 
+- MCHA goals for 2025
+	- Reliability 
+		- Increased track and testing time
+	- Maintain serviceability
+	- Favor evolution of previous designs, over mass redesign
+		- Incremental iteration
+	- Data driven decisions to validate designs
+		- "Systems should never be used at competition if they do not have data to justify it being on the car" - Jye Hollier 2023
+	- Simple self-documenting systems
+	- Efficient team member workflows
+	- Prioritisation of long term performance
+
 - FYP Project Roles
 	- Data Engineer
 		- Sensor integration 
@@ -18,6 +30,7 @@
 		- Circuit design
 		- Stereo camera vision
 		- LiDAR implementation, testing and validation
+
 - pcb stuff
 	- tools
 	- ddr
