@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 0/MCHA split off preso.md",
+                "file": "PCBs/New LVD connector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCHA split off preso"
+              "title": "New LVD connector"
             }
           },
           {
@@ -72,9 +72,23 @@
               "icon": "lucide-file",
               "title": "2025 MCHA Goals"
             }
+          },
+          {
+            "id": "04308665369f55c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP Scopes and Projects/2025 MCHA Budget Project Categories.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025 MCHA Budget Project Categories"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -221,11 +235,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df2060db4ae673d1",
+  "active": "04308665369f55c2",
   "lastOpenFiles": [
-    "Year Planning/2025 MCHA Goals.md",
-    "Week 0/MCHA split off preso.md",
+    "PCBs/OTA Programming.md",
+    "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
+    "PCBs/NU24 - All PCB Mount DT Connectors.md",
+    "PCBs/New LVD connector.md",
     "PCBs/BMS-IMD Fault Detection Circuit Implementation.md",
+    "PCBs/AT Connectors.md",
+    "Week 0/MCHA split off preso.md",
+    "Year Planning/2025 MCHA Goals.md",
     "Year Planning/Critical Dates.md",
     "Year Planning",
     "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",
@@ -235,7 +254,6 @@
     "What is an FYP.md",
     "FYP Scopes and Projects/FYP, Directed and Starter Project.md",
     "FYP Scopes and Projects",
-    "PCBs/AT Connectors.md",
     "MCHA Team Roles & Structure Plans/LV Systems Engineer.md",
     "MCHA Team Roles & Structure Plans/MCHA Team Structure Plans.md",
     "MCHA Team Roles & Structure Plans/Lead MCHA Role.md",
