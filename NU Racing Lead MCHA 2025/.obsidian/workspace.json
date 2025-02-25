@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYP Scopes and Projects/2025 MCHA Budget Project Categories.md",
+                "file": "Year Planning/2025 MCHA Goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 MCHA Budget Project Categories"
+              "title": "2025 MCHA Goals"
             }
           }
         ],
@@ -237,6 +237,9 @@
   },
   "active": "04308665369f55c2",
   "lastOpenFiles": [
+    "Year Planning/Critical Dates.md",
+    "Year Planning/2025 MCHA Goals.md",
+    "FYP Scopes and Projects/2025 MCHA Budget Project Categories.md",
     "PCBs/OTA Programming.md",
     "PCBs/NU25 - All PCB Mount DT-AT Connectors.md",
     "PCBs/NU24 - All PCB Mount DT Connectors.md",
@@ -244,8 +247,6 @@
     "PCBs/BMS-IMD Fault Detection Circuit Implementation.md",
     "PCBs/AT Connectors.md",
     "Week 0/MCHA split off preso.md",
-    "Year Planning/2025 MCHA Goals.md",
-    "Year Planning/Critical Dates.md",
     "Year Planning",
     "MCHA Team Roles & Structure Plans/HV Systems-Powertrain Engineer.md",
     "Week 0/Prep for preso.md",
@@ -257,7 +258,6 @@
     "MCHA Team Roles & Structure Plans/LV Systems Engineer.md",
     "MCHA Team Roles & Structure Plans/MCHA Team Structure Plans.md",
     "MCHA Team Roles & Structure Plans/Lead MCHA Role.md",
-    "FYP Scopes and Projects/2025 MCHA Budget Project Categories.md",
     "Expansion Board Sensors/Brake Temperature Sensor.md",
     "Expansion Board Sensors/Wheel Speed Sensors.md",
     "FYP Scopes and Projects/2025 NU Racing Projects.md",
