@@ -90,16 +90,19 @@
 	- change to chassis
 	- all naming of AMS to BMS
 	- keyed CEN AT connector
-- CEN Mobo
-	- change 4x 8 pin DT connectors to keyed AT connectors
-	- change to opposite side of HIP
-	- spec fuses properly
-	- interpose from LVD to CEN
-	- another double MOSFET circuit 
-	- TSAL DT:
-		- change naming from TSAL to UEN
-		- make it an 8 pin connector
-			- to route new red switched ground
+- MOTHER Board
+	- Schematic Changes:
+		- change 4x 8 pin DT connectors to keyed AT connectors
+		- spec fuses properly
+		- interpose from LVD to CEN
+		- Change from IRLB8721 MOSFETs to IRLB3813 MOSFETs
+		- TSAL DT connector:
+			- change naming from TSAL to UEN
+			- make it an 8 pin connector
+				- to route new red switched ground
+	- PCB Layout Changes
+		- change mounting location from top of firewall to opposite side of HIP
+		- design size and to fit the area
 - HFR
 	- implement new red switching functionality 
 		- 555 timer, or gate
@@ -116,9 +119,12 @@
 - TSAL_DISCHARGE
 	- Correct schematic documentation and change all naming of red to amber
 - LVD
-	- make it not such a mess
-	- split the 22 pin molex connector into 3 smaller molex connectors
-	- interpose from LVD to CEN
+	- Schematic Changes
+		- split the 22 pin molex connector into 3 smaller molex connectors
+		- interpose from LVD to CEN
+		- Change from IRLB8721 MOSFETs to IRLB3813 MOSFETs
+	- PCB Layout Changes
+		- add a bit of order to it
 - AIL
 	- have it be a breakout board???
 	- new volt meter
