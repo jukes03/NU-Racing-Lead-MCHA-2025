@@ -96,13 +96,16 @@
 		- spec fuses properly
 		- interpose from LVD to CEN
 		- Change from IRLB8721 MOSFETs to IRLB3813 MOSFETs
+			- IRLB3813 has same footprint as IRLB8721
+		- Change 2N7002 MOSFETs to DMN6075S-7 MOSFETs
+			- DMN6075S-7 has same footprint as 2N7002
 		- TSAL DT connector:
 			- change naming from TSAL to UEN
-			- make it an 8 pin connector
-				- to route new red switched ground
 	- PCB Layout Changes
 		- change mounting location from top of firewall to opposite side of HIP
 		- design size and to fit the area
+		- increase dead space around BSPD breakout, as it will be increasing in size slightly
+			- waiting on Jayson Mills to finish BSPD PCB Layout Changes
 - HFR
 	- implement new red switching functionality 
 		- 555 timer, or gate
@@ -120,11 +123,13 @@
 	- Correct schematic documentation and change all naming of red to amber
 - LVD
 	- Schematic Changes
-		- split the 22 pin molex connector into 3 smaller molex connectors
-		- interpose from LVD to CEN
+		- Split the 22 pin MOLEX connector into 3 smaller MOLEX connectors
+			- in accordance with the NU25 Electrical System Overview (found on github)
+		- Remove the interpose relay (moving to the CEN so its more accessible)
 		- Change from IRLB8721 MOSFETs to IRLB3813 MOSFETs
+		- Change from 2N7002 MOSFETs to DMN6075S-7 MOSFETs
 	- PCB Layout Changes
-		- add a bit of order to it
+		- add a bit of order to the dog
 - AIL
 	- have it be a breakout board???
 	- new volt meter

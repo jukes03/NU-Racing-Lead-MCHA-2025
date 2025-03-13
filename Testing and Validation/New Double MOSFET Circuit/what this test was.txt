@@ -1,0 +1,3 @@
+changes to double MOSFET switching circuit:
+- from IRLB8721PBF to IRLB3813PBF
+- from 2N7002 to DMN6075S-7
