@@ -78,7 +78,7 @@
 	- SWEN functionality
 		- dials for torque
 		- switch for regen
-		- idk how youll make sure these things are in the correct position after unplugging the board from the car
+		- idk how you'll make sure these things are in the correct position after unplugging the board from the car
 	- temp sensors for radiator 
 		- temp sensors are already in the radiator 
 		- DBC file update
