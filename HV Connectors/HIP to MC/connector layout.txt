@@ -1,0 +1,2 @@
+270, SLPPB50BS01EH = negative 
+90, SLPPB50BSO0EH = positive 

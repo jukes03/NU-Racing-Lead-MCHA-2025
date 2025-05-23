@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "494b7aa787a7ff7d",
+        "id": "f3e2098aeecaf5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "23aefc86cc6f58db",
+            "id": "daa6c347cc747421",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abb05896e48af20f",
+  "active": "daa6c347cc747421",
   "lastOpenFiles": [
+    "PCBs/OTA Programming.md",
     "PCBs/New LVD connector.md",
     "Year Planning/Critical Dates.md",
     "FYP Scopes and Projects/ENGG3200 Sem1 Scopes.md",
@@ -180,7 +181,6 @@
     "TSSI-RTM Rule/Proof of Compliance to DOT FMVSS 108.md",
     "TSSI-RTM Rule",
     "Year Planning/2025 MCHA Goals.md",
-    "PCBs/OTA Programming.md",
     "PCBs/NU24 - All PCB Mount DT Connectors.md",
     "TSSI-RTM Rule/BMS-IMD Fault Detection Circuit Implementation.md",
     "Year Planning",
