@@ -1,0 +1,27 @@
+12 AWG orange wire = 3.3 mm^2 wire
+
+4-2103177-4
+	- back shell: 2103181
+		- https://www.digikey.com.au/en/products/detail/te-connectivity-amp-connectors/2103181-2/5423169?srsltid=AfmBOopieP1MIkSKQfwcGE-7tGze1kJnCdusuE1tKJSaqrIIEVpchj4H
+
+	- cable seal: 2260703
+		- https://au.mouser.com/ProductDetail/TE-Connectivity/2260703-1?qs=CnDpBwYPvGoiEh3mtVvkIQ%3D%3D&srsltid=AfmBOoqu2Gi7uLLmWtm3yny5g1-9fUS59SVfUO9xTyoPQtIJ2939lH0w
+
+	- inner ferrule: 1587828 (no shielded cable, dont need?)
+	- outer ferrule: 1587829 (no shielded cable, dont need?)
+
+	- terminal receptacles: 1-968853-3
+		- https://www.digikey.com.au/en/products/detail/te-connectivity-amp-connectors/1-968853-3/5437364?srsltid=AfmBOop4Ilwn4hpI7DmmflBKc9ts3FhDXdVK3VA7yfcPgMQdrcU_1lSY
+
+
+
+
+2103124-4
+	- protective cap: 1587733-1
+		- https://www.digikey.com.au/en/products/detail/te-connectivity-amp-connectors/1587733-1/10478426?srsltid=AfmBOooNh6vABvApp0cnXUYuUfyjiz41GhktYY1IfNgvoith5-l2MhCx
+
+	- terminal pins: 2-2141598-2 (2-2141600-2 for larger wire size)
+		- https://www.digikey.com.au/en/products/detail/te-connectivity-amp-connectors/2-2141598-2/10478231
+
+	- interlock pins: 5-963715-6
+		- https://www.digikey.com.au/en/products/detail/te-connectivity-amp-connectors/5-963715-6/9925468?srsltid=AfmBOoraWkevfzfOkUGGs-WnIBcbsAxmt0FCrTcCYf7rn-JXbzetxnlg
