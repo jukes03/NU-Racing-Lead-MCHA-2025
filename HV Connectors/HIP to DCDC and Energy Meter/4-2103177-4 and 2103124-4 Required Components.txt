@@ -25,3 +25,7 @@
 
 	- interlock pins: 5-963715-6
 		- https://www.digikey.com.au/en/products/detail/te-connectivity-amp-connectors/5-963715-6/9925468?srsltid=AfmBOoraWkevfzfOkUGGs-WnIBcbsAxmt0FCrTcCYf7rn-JXbzetxnlg
+
+
+
+
