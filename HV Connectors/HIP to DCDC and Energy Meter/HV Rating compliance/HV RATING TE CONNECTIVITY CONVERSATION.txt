@@ -1,0 +1,43 @@
+Hello! I would like to request datasheets for the following two products: 1-2103124-1 and 4-2103177-4. I am looking for the voltage rating of the connectors
+Tue 2:58 PM
+
+Sure, Happy to hep!
+Tue 2:58 PM
+
+I am checking on the part, Few minutes please
+Tue 2:59 PM
+
+While I am checking, Can I please understand in which application are you using this part and the Annual Quantity required?
+Tue 3:04 PM
+
+I am part of a Formula student university team, the competition that we enter into requires for us to have datasheets for all of our high voltage components
+Tue 3:08 PM
+
+the annual quantity is probably around 4
+Tue 3:08 PM
+
+Understood Jacob! Thank you:)
+As the datasheet is not readily available for this part the requested info in available on the application spec P/N 4-2103177-4- te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=114-13259&DocType=Specification Or Standard&DocLang=English&DocFormat=pdf&PartCntxt=4-2103177-4
+Please check and let me know if that info in the document helps or please let me know if you need any further support.
+Are we connected?
+Tue 3:12 PM
+
+Yes we are, one second sorry
+Tue 3:13 PM
+
+Yes just checked, that should be fine. Would you know if there is similar information for the 2103124-4?
+Tue 3:13 PM
+
+I am checking
+For HVA 280 series you can consider the above provided application spec.
+Tue 3:17 PM
+
+I see, great thank you!
+Tue 3:18 PM
+
+You're welcome!
+Can I help you with anything else or we good to close the chat?
+Tue 3:19 PM
+
+All good to close, thank you for the help
+Tue 3:19 PM
