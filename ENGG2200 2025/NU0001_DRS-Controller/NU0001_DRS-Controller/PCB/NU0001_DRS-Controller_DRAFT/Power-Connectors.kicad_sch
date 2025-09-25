@@ -1,0 +1,40 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3bd35099-35ca-4ce7-9952-7fa62c2505fe")
+	(paper "A4")
+	(title_block
+		(title "POWER - CONNECTORS")
+		(date "2025-09-12")
+		(rev "${REVISION}")
+		(company "${COMPANY}")
+		(comment 3 "${DESIGNER}")
+		(comment 4 "${ENGINEER}")
+		(comment 5 "${REVIEWER}")
+		(comment 6 "${APPROVER}")
+	)
+	(lib_symbols)
+	(text_box "[${#}] ${TITLE}"
+		(exclude_from_sim no)
+		(at 83.82 16.51 0)
+		(size 137.16 12.7)
+		(margins 4.4999 4.4999 4.4999 4.4999)
+		(stroke
+			(width -0.0001)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 1.2)
+				(bold yes)
+				(color 162 22 34 1)
+			)
+		)
+		(uuid "6eea8332-cf5a-4a3e-a676-06ddf9dde6c6")
+	)
+)
